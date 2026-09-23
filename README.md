@@ -183,16 +183,6 @@ The dashboard can be used to answer questions such as:
 - Interactive Dashboard Development
 - Working with Real-World Datasets
 
-## 🔮 Future Improvements
-
-- Add more advanced DAX measures.
-- Create additional dashboard pages.
-- Add deeper location-based analysis.
-- Add more customer-focused analysis.
-- Add advanced KPI cards.
-- Improve dashboard interactivity.
-- Publish the dashboard using Power BI Service.
-- Add automated data refresh.
 
 ## 👩‍💻 Author
 
